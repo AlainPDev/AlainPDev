@@ -33,9 +33,8 @@ I'm a nurse who spent 20+ certifications moving into software and security. The 
 
 - IBM DevOps & Software Engineering — *Coursera*
 - Software Design & Architecture — *University of Alberta*
-- Python Essentials 1–3 — *OpenEDG*, toward PCAP
 - GitHub Actions, Docker, Terraform
-- AZ-104 · SC-500
+- AZ-104 
 
 ### Earned
 
