@@ -9,7 +9,7 @@ For five years I monitored critical systems around the clock, triaged alerts by 
 
 Then I found out that job has another name in tech.
 
-I'm a nurse who spent 20+ certifications moving into software and security. The career change is narrower than it looks:
+After years of study AND 20+ certifications, I'm ready to move into software and security. The career change is narrower than it looks:
 
 | In the hospital | In tech |
 | --- | --- |
