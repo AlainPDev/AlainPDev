@@ -1,7 +1,7 @@
 # Alain Perez
 
 **Python · DevOps · DevSecOps · Cloud**
-MSIT · MSN Nursing Informatics · MBA · RN
+~ MSIT · MSN Informatics · MBA 
 
 ---
 
