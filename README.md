@@ -47,5 +47,5 @@ TryHackMe — Cyber Defense · Jr Penetration Tester · Red Teaming · Web Funda
 
 ---
 
-Melbourne, FL · Native Spanish & English
-Open to remote, or on-site in EU region.
+Melbourne, FL · Fluent in Spanish & English ~
+Open to remote or on-site in EU region.
