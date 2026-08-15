@@ -1,6 +1,6 @@
 # Alain Perez
 
-**Python · DevOps · DevSecOps · Cloud**
+**Golang · DevOps · DevSecOps · Cloud**
 ~ MSIT · MSN Informatics · MBA 
 
 ---
@@ -32,8 +32,7 @@ After years of study AND 20+ certifications, I'm ready to move into software and
 ### Learning right now
 
 - Hack the Box - Pentesting, Web Exploits, SOC Analyst + Certification, Red Team
-- GitHub Actions, Docker, Terraform
-- AZ-104 
+- Avid Media Composer
 
 ### Earned
 
@@ -41,9 +40,8 @@ CompTIA **Security+** · **Network+** · **A+** · **Server+** · **Project+** �
 **IBM Cybersecurity Analyst** · **PCEP** (Python Institute) · **AZ-900** · **AWS Cloud Practitioner**
 **PSM I** · **ITIL v4** · **Six Sigma Yellow Belt** (ASQ) · Google IT Support & PM
 
-TryHackMe — Cyber Defense · Jr Penetration Tester · Red Teaming · Web Fundamentals
 
 ---
 
-Orlando, FL · Fluent in Spanish & English ~
+Orlando, FL · Fluent in Spanish & English ~ French B2
 Open to work in EU region.
