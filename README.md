@@ -31,8 +31,7 @@ After years of study AND 20+ certifications, I'm ready to move into software and
 
 ### Learning right now
 
-- IBM DevOps & Software Engineering — *Coursera*
-- Software Design & Architecture — *University of Alberta*
+- Hack the Box - Pentesting, Web Exploits, SOC Analyst + Certification, Red Team
 - GitHub Actions, Docker, Terraform
 - AZ-104 
 
@@ -46,5 +45,5 @@ TryHackMe — Cyber Defense · Jr Penetration Tester · Red Teaming · Web Funda
 
 ---
 
-Melbourne, FL · Fluent in Spanish & English ~
-Open to remote or on-site in EU region.
+Orlando, FL · Fluent in Spanish & English ~
+Open to work in EU region.
