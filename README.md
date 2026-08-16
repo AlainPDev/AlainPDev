@@ -31,17 +31,17 @@ After years of study AND 20+ certifications, I'm ready to move into software and
 
 ### Learning right now
 
-- Hack the Box - Pentesting, Web Exploits, SOC Analyst + Certification, Red Team
-- Avid Media Composer
+- Microsoft AZ104
+- Avid Media Composer Certified Specialist
+- Hack The Box - Learning Paths - SOC Analyst + Certification, PenTesting Specialist, Web Exploits PenTesting, RedTeam 
 
 ### Earned
 
 CompTIA **Security+** · **Network+** · **A+** · **Server+** · **Project+** · **CIOS** · **CNIP** · **CSIS**
 **IBM Cybersecurity Analyst** · **PCEP** (Python Institute) · **AZ-900** · **AWS Cloud Practitioner**
-**PSM I** · **ITIL v4** · **Six Sigma Yellow Belt** (ASQ) · Google IT Support & PM
-
+**PSM I** · **ITIL v4** · **Six Sigma Yellow Belt** (ASQ) · Google IT Support & PM Certificate
 
 ---
 
-Orlando, FL · Fluent in Spanish & English ~ French B2
-Open to work in EU region.
+Melbourne, FL · Fluent in Spanish & English - French B2 -
+Open to remote or on-site in EU region.
