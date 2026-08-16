@@ -13,7 +13,7 @@ func scanPort(ip string, port int, wg *sync.WaitGroup) {
         defer wg.Done()
 
         address := fmt.Sprintf("%s:%d", ip, port)
-        dialer := net.Dialer{Timeout: 2 * time.second}
+        dialer := net.Dialer{Timeout: 2 * time.Second}
 
         conn, err := dialer.Dial("tcp", address)
         if err != nil {
