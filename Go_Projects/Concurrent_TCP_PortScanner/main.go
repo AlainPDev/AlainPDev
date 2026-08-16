@@ -1,7 +1,6 @@
 package main
 
 import (
-<<<<<<< HEAD
 	"bufio"
 	"fmt"
 	"net"
