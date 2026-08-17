@@ -14,13 +14,12 @@ package main
 import (
 	"bufio"
 	"fmt"
-	"os"
-	"strings"
-	"time"
-
 	"laptop-wipe/diskutil"
 	"laptop-wipe/wipe"
 	"laptop-wipe/wipelog"
+	"os"
+	"strings"
+	"time"
 )
 
 func main() {
