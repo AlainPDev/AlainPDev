@@ -1,0 +1,15 @@
+---
+- name: Collect Device Inventory Metadata
+  hosts: cisco_switches
+  gather_facts: no
+  connection: ansible.netcommon.network_cli
+
+  tasks:
+    - name: Retrieve Core IOS Facts
+      cisco.ios.ios_facts:
+        gather_subset: all
+      register: device_facts
+
+    - name: Output Model and Serial Number
+      ansible.builtin.debug:
+        msg: "Device {{ inventory_hostname }} is running {{ ansible_net_image }} with serial {{ ansible_net_serialnum }}"

@@ -1,0 +1,29 @@
+---
+- name: Standardize Enterprise Switch Baselines
+  hosts: distribution_switches
+  gather_facts: no
+  connection: ansible.netcommon.network_cli
+
+  tasks:
+    - name: Enforce Corporate Security Banner (MotD)
+      cisco.ios.ios_banner:
+        banner: motd
+        text: |
+          ***************************************************************
+          UNAUTHORIZED ACCESS TO THIS NETWORK DEVICE IS STRICTLY PROHIBITED.
+          All connections are monitored and logged for security compliance.
+          ***************************************************************
+        state: present
+
+    - name: Structure Layer 3 Uplink Interfaces
+      cisco.ios.ios_l3_interfaces:
+        config:
+          - name: GigabitEthernet0/1
+            description: "Primary Uplink to Core_Switch_01"
+            ipv4:
+              - address: 10.0.1.2/30
+          - name: GigabitEthernet0/2
+            description: "Secondary Backup Uplink"
+            ipv4:
+              - address: 10.0.2.2/30
+        state: overridden # Overridden replaces any old IPs matching those ports
